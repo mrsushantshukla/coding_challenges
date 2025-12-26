@@ -1,0 +1,9 @@
+README.md
+setup.py
+ccwc/__init__.py
+ccwc/ccwc.py
+ccwc.egg-info/PKG-INFO
+ccwc.egg-info/SOURCES.txt
+ccwc.egg-info/dependency_links.txt
+ccwc.egg-info/entry_points.txt
+ccwc.egg-info/top_level.txt
